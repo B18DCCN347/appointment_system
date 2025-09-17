@@ -1,4 +1,3 @@
-// lib/presentation/blocs/appointment_state.dart
 part of 'appointment_bloc.dart';
 
 abstract class AppointmentState extends Equatable {

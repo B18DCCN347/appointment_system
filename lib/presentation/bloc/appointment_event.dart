@@ -1,4 +1,3 @@
-// lib/presentation/blocs/appointment_event.dart
 part of 'appointment_bloc.dart';
 
 abstract class AppointmentEvent extends Equatable {

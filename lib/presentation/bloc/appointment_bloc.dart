@@ -1,4 +1,3 @@
-// lib/presentation/blocs/appointment_bloc.dart
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import '../../domain/entities/appointment.dart';
